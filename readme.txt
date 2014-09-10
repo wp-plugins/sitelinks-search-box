@@ -17,7 +17,7 @@ This plugin adds the JSON-LD schema.org markup for the "Google Sitelinks Search 
 
 This new feature of the Google Search Engine was presented on the [Official Google Webmaster Central Blog](http://googlewebmastercentral.blogspot.com.es/2014/09/improved-sitelinks-search-box.html "Official Google Webmaster Central Blog") (05 Sep 2014 07:44 AM PDT). There is more info on the [Google Developers Website](https://developers.google.com/webmasters/richsnippets/sitelinkssearch "Google Developers Website").
 
-With Google sitelinks search box, people can reach your content more quickly from search results. Search users sometimes use navigational queries—typing in the brand name or URL of a known site—only to do a more detailed query once on that site. For example, suppose someone wants to find that video about the guilty dog on YouTube. They type YouTube, or you-tube, or youtube.com into Google Search, follow the link to YouTube, and then actually search for the dog video. 
+With Google sitelinks search box, people can reach your content more quickly from search results. Search users sometimes use navigational queries -typing in the brand name or URL of a known site- only to do a more detailed query once on that site. For example, suppose someone wants to find that video about the guilty dog on YouTube. They type YouTube, or you-tube, or youtube.com into Google Search, follow the link to YouTube, and then actually search for the dog video. 
 
 The sitelinks search box removes that extra step: a query for youtube displays a site search box in the sitelinks section, letting the user immediately search for that guilty dog video without having to click through to the site first.
 
@@ -47,7 +47,7 @@ Please use with WordPress MultiSite at your own risk, as it has not been tested.
 == Frequently Asked Questions ==
 
 = What is SITELINK SEARCH BOX good for? =
-This plugin exports all entries of SeoCrawlytics and gives you the option to delete the entries that are older than 1 month.
+This plugin adds the schema.org JSON-JD markup for the "Google Sitelinks Search Box" on the homepage.
 
 = Does SITELINK SEARCH BOX make changes to the database? =
 No.
