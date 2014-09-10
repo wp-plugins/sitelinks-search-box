@@ -1,0 +1,88 @@
+=== Sitelinks Search Box ===
+Contributors: apasionados, netconsulting
+Donate link: http://apasionados.es/
+Tags: search engines, sitelinks search box, google, google sitelinks search box, google sitelinks, schema.org, JSON-LD
+Requires at least: 3.0.1
+Tested up to: 4.0.0
+Stable tag: 1.0
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+Adds the JSON-LD schema.org markup for the "Google Sitelinks Search Box" on the homepage.
+
+
+== Description ==
+
+This plugin adds the JSON-LD schema.org markup for the "Google Sitelinks Search Box" on the homepage.
+
+This new feature of the Google Search Engine was presented on the [Official Google Webmaster Central Blog](http://googlewebmastercentral.blogspot.com.es/2014/09/improved-sitelinks-search-box.html "Official Google Webmaster Central Blog") (05 Sep 2014 07:44 AM PDT). There is more info on the [Google Developers Website](https://developers.google.com/webmasters/richsnippets/sitelinkssearch "Google Developers Website").
+
+With Google sitelinks search box, people can reach your content more quickly from search results. Search users sometimes use navigational queries—typing in the brand name or URL of a known site—only to do a more detailed query once on that site. For example, suppose someone wants to find that video about the guilty dog on YouTube. They type YouTube, or you-tube, or youtube.com into Google Search, follow the link to YouTube, and then actually search for the dog video. 
+
+The sitelinks search box removes that extra step: a query for youtube displays a site search box in the sitelinks section, letting the user immediately search for that guilty dog video without having to click through to the site first.
+
+= What can I do with this plugin? =
+This plugin adds the schema.org JSON-JD markup for the "Google Sitelinks Search Box" on the homepage.
+
+After activating the plugin you only have to "Wait for Google Search algorithms to identify your site as a candidate for the new sitelinks search box".
+
+= SITELINK SEARCH BOX in your Language! =
+This first release is avaliable in English and Spanish. In the languages folder we have included the necessary files to translate this plugin.
+
+If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-sitelinksearchbox-home).
+
+= Further Reading =
+You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
+
+
+== Installation ==
+
+1. Upload the `sitelinks-search-box` folder to the `/wp-content/plugins/` directory (or to the directory where your WordPress plugins are located)
+1. Activate the SITELINK SEARCH BOX plugin through the 'Plugins' menu in WordPress.
+1. Plugin doesn't need any configuration.
+
+Please use with WordPress MultiSite at your own risk, as it has not been tested.
+
+
+== Frequently Asked Questions ==
+
+= What is SITELINK SEARCH BOX good for? =
+This plugin exports all entries of SeoCrawlytics and gives you the option to delete the entries that are older than 1 month.
+
+= Does SITELINK SEARCH BOX make changes to the database? =
+No.
+
+= How can I check out if the plugin works for me? =
+Install and activate. Empty cache (if any cache plugin installed) and have a look at the source code of the homepage. At the end there should be the JSON-LD markup.
+You can also check with the [Structured Data Linter](http://linter.structured-data.org/) that the JSON-LD markup is correctly implemented.
+
+= How can I remove SITELINK SEARCH BOX? =
+You can simply activate, deactivate or delete it in your plugin management section.
+
+= Are there any known incompatibilities? =
+Please don't use it with WordPress MultiSite, as it has not been tested.
+
+= Do you make use of SITELINK SEARCH BOX yourself? = 
+Of course we do. ;-)
+
+== Screenshots ==
+
+1. Sitelink Search Box YouTube search example
+2. Homepage source code example
+
+== Changelog ==
+
+= 1.0 =
+* First stable release.
+
+= 0.5 =
+* Beta release.
+
+== Upgrade Notice ==
+
+= 1.0 =
+First stable release.
+
+== Contact ==
+
+For further information please send us an [email](http://apasionados.es/contacto/index.php?desde=wordpress-org-sitelinksearchbox-contact).
