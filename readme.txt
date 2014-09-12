@@ -34,8 +34,6 @@ If you would like the plugin in your language and you're good at translating, pl
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
 
-= 
-
 == Installation ==
 
 1. Upload the `sitelinks-search-box` folder to the `/wp-content/plugins/` directory (or to the directory where your WordPress plugins are located)
@@ -43,6 +41,7 @@ You can access the description of the plugin in Spanish at: [Sitelinks Search Bo
 1. Plugin doesn't need any configuration.
 
 Please use with WordPress MultiSite at your own risk, as it has not been tested.
+
 If you use WordPress SEO by Yoast version 1.6 or newer (presented on September, 11th 2014), you don't need this plugin. More info on our [Frequently Asked Questions page](https://wordpress.org/plugins/sitelinks-search-box/faq/).
 
 == Frequently Asked Questions ==
