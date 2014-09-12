@@ -4,7 +4,7 @@ Donate link: http://apasionados.es/
 Tags: search engines, sitelinks search box, google, google sitelinks search box, google sitelinks, schema.org, JSON-LD
 Requires at least: 3.0.1
 Tested up to: 4.0.0
-Stable tag: 1.0
+Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -34,6 +34,7 @@ If you would like the plugin in your language and you're good at translating, pl
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
 
+= 
 
 == Installation ==
 
@@ -42,7 +43,7 @@ You can access the description of the plugin in Spanish at: [Sitelinks Search Bo
 1. Plugin doesn't need any configuration.
 
 Please use with WordPress MultiSite at your own risk, as it has not been tested.
-
+If you use WordPress SEO by Yoast version 1.6 or newer (presented on September, 11th 2014), you don't need this plugin. More info on our [Frequently Asked Questions page](https://wordpress.org/plugins/sitelinks-search-box/faq/).
 
 == Frequently Asked Questions ==
 
@@ -61,6 +62,7 @@ You can simply activate, deactivate or delete it in your plugin management secti
 
 = Are there any known incompatibilities? =
 Please don't use it with WordPress MultiSite, as it has not been tested.
+If you use [WordPress SEO by Yoast](https://wordpress.org/plugins/wordpress-seo/) version 1.6 or newer, you don't need to use this plugin, as this feature has been included in the version 1.6 update. There is more info here: [Yoast Changelog](https://wordpress.org/plugins/wordpress-seo/changelog/).
 
 = Do you make use of SITELINK SEARCH BOX yourself? = 
 Of course we do. ;-)
@@ -72,6 +74,9 @@ Of course we do. ;-)
 
 == Changelog ==
 
+= 1.0.1 =
+Updated readme.txt file with info about "WordPress SEO by Yoast" including the Sitelink Search Box markup in their plugin from version 1.6 on. If you use WordPress SEO by Yoast version 1.6 or newer, you don't need this plugin any more.
+
 = 1.0 =
 * First stable release.
 
@@ -80,8 +85,8 @@ Of course we do. ;-)
 
 == Upgrade Notice ==
 
-= 1.0 =
-First stable release.
+= 1.0.1 =
+Updated readme.txt file with info about "WordPress SEO by Yoast" including the Sitelink Search Box markup in their plugin from version 1.6 on. If you use WordPress SEO by Yoast version 1.6 or newer, you don't need this plugin any more.
 
 == Contact ==
 

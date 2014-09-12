@@ -3,7 +3,7 @@
 Plugin Name: Sitelinks Search Box
 Plugin URI: http://apasionados.es
 Description: Adds the JSON-LD schema.org markup for the "Google Sitelinks Search Box" on the homepage. This new feature was presented on the <a href="http://googlewebmastercentral.blogspot.com.es/2014/09/improved-sitelinks-search-box.html" target="_blank">Official Google Webmaster Central Blog</a> (05 Sep 2014 07:44 AM PDT). There is more info on the <a href="https://developers.google.com/webmasters/richsnippets/sitelinkssearch">Google Developers Website</a>.
-Version: 1.0
+Version: 1.0.1
 Author: Apasionados.es
 Author URI: http://apasionados.es
 License: GPL2
