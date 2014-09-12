@@ -40,9 +40,9 @@ You can access the description of the plugin in Spanish at: [Sitelinks Search Bo
 1. Activate the SITELINK SEARCH BOX plugin through the 'Plugins' menu in WordPress.
 1. Plugin doesn't need any configuration.
 
-Please use with WordPress MultiSite at your own risk, as it has not been tested.
+Please use with *WordPress MultiSite* at your own risk, as it has not been tested.
 
-If you use WordPress SEO by Yoast version 1.6 or newer (presented on September, 11th 2014), you don't need this plugin. More info on our [Frequently Asked Questions page](https://wordpress.org/plugins/sitelinks-search-box/faq/).
+If you use *WordPress SEO by Yoast* version 1.6 or newer (presented on September, 11th 2014), you don't need this plugin. More info on our [Frequently Asked Questions page](https://wordpress.org/plugins/sitelinks-search-box/faq/).
 
 == Frequently Asked Questions ==
 
@@ -60,7 +60,8 @@ You can also check with the [Structured Data Linter](http://linter.structured-da
 You can simply activate, deactivate or delete it in your plugin management section.
 
 = Are there any known incompatibilities? =
-Please don't use it with WordPress MultiSite, as it has not been tested.
+Please don't use it with *WordPress MultiSite*, as it has not been tested.
+
 If you use [WordPress SEO by Yoast](https://wordpress.org/plugins/wordpress-seo/) version 1.6 or newer, you don't need to use this plugin, as this feature has been included in the version 1.6 update. There is more info here: [Yoast Changelog](https://wordpress.org/plugins/wordpress-seo/changelog/).
 
 = Do you make use of SITELINK SEARCH BOX yourself? = 
