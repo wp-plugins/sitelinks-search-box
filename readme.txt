@@ -31,7 +31,7 @@ This first release is avaliable in English and Spanish. In the languages folder 
 
 If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-sitelinksearchbox-home).
 
-Translation to ar_SA by Majed Atwi [سيو بالعربي](www.seo-ar.net).
+Translation to ar_SA by Majed Atwi: [سيو بالعربي](http://www.seo-ar.net).
 
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
