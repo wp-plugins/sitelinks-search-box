@@ -1,4 +1,4 @@
-=== Sitelinks Search Box ===
+﻿=== Sitelinks Search Box ===
 Contributors: apasionados, netconsulting
 Donate link: http://apasionados.es/
 Tags: search engines, sitelinks search box, google, google sitelinks search box, google sitelinks, schema.org, JSON-LD
@@ -31,10 +31,10 @@ This first release is avaliable in English and Spanish. In the languages folder 
 
 If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-sitelinksearchbox-home).
 
+Translation to ar_SA by Majed Atwi: [سيو بالعربي](http://www.seo-ar.net).
+
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
-
-= 
 
 == Installation ==
 
@@ -42,8 +42,9 @@ You can access the description of the plugin in Spanish at: [Sitelinks Search Bo
 1. Activate the SITELINK SEARCH BOX plugin through the 'Plugins' menu in WordPress.
 1. Plugin doesn't need any configuration.
 
-Please use with WordPress MultiSite at your own risk, as it has not been tested.
-If you use WordPress SEO by Yoast version 1.6 or newer (presented on September, 11th 2014), you don't need this plugin. More info on our [Frequently Asked Questions page](https://wordpress.org/plugins/sitelinks-search-box/faq/).
+Please use with *WordPress MultiSite* at your own risk, as it has not been tested.
+
+If you use *WordPress SEO by Yoast* version 1.6 or newer (presented on September, 11th 2014), you don't need this plugin. More info on our [Frequently Asked Questions page](https://wordpress.org/plugins/sitelinks-search-box/faq/).
 
 == Frequently Asked Questions ==
 
@@ -61,7 +62,8 @@ You can also check with the [Structured Data Linter](http://linter.structured-da
 You can simply activate, deactivate or delete it in your plugin management section.
 
 = Are there any known incompatibilities? =
-Please don't use it with WordPress MultiSite, as it has not been tested.
+Please don't use it with *WordPress MultiSite*, as it has not been tested.
+
 If you use [WordPress SEO by Yoast](https://wordpress.org/plugins/wordpress-seo/) version 1.6 or newer, you don't need to use this plugin, as this feature has been included in the version 1.6 update. There is more info here: [Yoast Changelog](https://wordpress.org/plugins/wordpress-seo/changelog/).
 
 = Do you make use of SITELINK SEARCH BOX yourself? = 
