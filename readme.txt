@@ -1,4 +1,4 @@
-=== Sitelinks Search Box ===
+﻿=== Sitelinks Search Box ===
 Contributors: apasionados, netconsulting
 Donate link: http://apasionados.es/
 Tags: search engines, sitelinks search box, google, google sitelinks search box, google sitelinks, schema.org, JSON-LD
@@ -30,6 +30,8 @@ After activating the plugin you only have to "Wait for Google Search algorithms 
 This first release is avaliable in English and Spanish. In the languages folder we have included the necessary files to translate this plugin.
 
 If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-sitelinksearchbox-home).
+
+Translation to ar_SA by Majed Atwi [سيو بالعربي](www.seo-ar.net).
 
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
