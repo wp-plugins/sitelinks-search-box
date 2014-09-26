@@ -33,6 +33,7 @@ If you would like the plugin in your language and you're good at translating, pl
 
 Translation to ar_SA by Majed Atwi: [سيو بالعربي](http://www.seo-ar.net).
 Translation to tr_TR by Ersin Tezcan: [Ersin Tezcan](http://www.seondex.com).
+Translation to de_DE by Ben.
 
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
