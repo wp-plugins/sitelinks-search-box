@@ -99,6 +99,7 @@ For further information please send us an [email](http://apasionados.es/contacto
 == Translating WordPress Plugins ==
 
 The steps involved in translating it are:
+
 1. Run a tool over the code to produce a POT file (Portable Object Template), simply a list of all localizable text. Our plugins allready havae this POT file in the /languages/ folder.
 1. Use a plain text editor or a special localization tool to generate a translation for each piece of text. This produces a PO file (Portable Object). The only difference between a POT and PO file is that the PO file contains translations.
 1. Compile the PO file to produce a MO file (Machine Object), which can then be used in the theme or plugin
@@ -106,10 +107,14 @@ The steps involved in translating it are:
 In order to translate a plugin you will need a special software tool like [poEdit](http://www.poedit.net/), which is a cross-platform graphical tool that is available for Windows, Linux, and Mac OS X.
 
 The naming of your PO and MO files is very important and must match the desired locale. The naming convention is: `language_COUNTRY.po` and plugins have an additional naming convention whereby the plugin name is added to the filename: `pluginname-fr_FR.po`
-That is, the plugin name name must be the language code followed by an underscore, followed by a code for the country (in uppercase). If the encoding of the file is not UTF-8 then the encoding must be specified. For example:
+
+That is, the plugin name name must be the language code followed by an underscore, followed by a code for the country (in uppercase). If the encoding of the file is not UTF-8 then the encoding must be specified. 
+
+For example:
 * en_US – US English
 * en_UK – UK English
 * es_ES – Spanish from Spain
 * fr_FR – French from France
 * zh_CN – Simplified Chinese
+
 A list of language codes can be found [here](http://en.wikipedia.org/wiki/ISO_639), and country codes can be found [here](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2). A full list of encoding names can also be found at [IANA](http://www.iana.org/assignments/character-sets).
