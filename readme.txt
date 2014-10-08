@@ -31,9 +31,9 @@ This first release is avaliable in English and Spanish. In the languages folder 
 
 If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-sitelinksearchbox-home).
 
-Translation to ar_SA by Majed Atwi: [سيو بالعربي](http://www.seo-ar.net).
-Translation to tr_TR by Ersin Tezcan: [Ersin Tezcan](http://www.seondex.com).
-Translation to de_DE by Ben.
+* Translation to ar_SA by Majed Atwi: [سيو بالعربي](http://www.seo-ar.net).
+* Translation to tr_TR by Ersin Tezcan: [Ersin Tezcan](http://www.seondex.com).
+* Translation to de_DE by Ben.
 
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
@@ -102,7 +102,7 @@ The steps involved in translating it are:
 
 1. Run a tool over the code to produce a POT file (Portable Object Template), simply a list of all localizable text. Our plugins allready havae this POT file in the /languages/ folder.
 1. Use a plain text editor or a special localization tool to generate a translation for each piece of text. This produces a PO file (Portable Object). The only difference between a POT and PO file is that the PO file contains translations.
-1. Compile the PO file to produce a MO file (Machine Object), which can then be used in the theme or plugin
+1. Compile the PO file to produce a MO file (Machine Object), which can then be used in the theme or plugin.
 
 In order to translate a plugin you will need a special software tool like [poEdit](http://www.poedit.net/), which is a cross-platform graphical tool that is available for Windows, Linux, and Mac OS X.
 
