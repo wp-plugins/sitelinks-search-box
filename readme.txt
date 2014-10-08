@@ -4,7 +4,7 @@ Donate link: http://apasionados.es/
 Tags: search engines, sitelinks search box, google, google sitelinks search box, google sitelinks, schema.org, JSON-LD
 Requires at least: 3.0.1
 Tested up to: 4.0.0
-Stable tag: 1.0.1
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -31,9 +31,9 @@ This first release is avaliable in English and Spanish. In the languages folder 
 
 If you would like the plugin in your language and you're good at translating, please drop us a line at [Contact us](http://apasionados.es/contacto/index.php?desde=wordpress-org-sitelinksearchbox-home).
 
-Translation to ar_SA by Majed Atwi: [سيو بالعربي](http://www.seo-ar.net).
-Translation to tr_TR by Ersin Tezcan: [Ersin Tezcan](http://www.seondex.com).
-Translation to de_DE by Ben.
+* Translation to ar_SA by Majed Atwi: [سيو بالعربي](http://www.seo-ar.net).
+* Translation to tr_TR by Ersin Tezcan: [Ersin Tezcan](http://www.seondex.com).
+* Translation to de_DE by Ben.
 
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
@@ -78,6 +78,9 @@ Of course we do. ;-)
 
 == Changelog ==
 
+= 1.1 =
+Changed get_site_url() to get_home_url() for support of WordPress installations in subfolders. Thanks to Diego Betto for pointing this out.
+
 = 1.0.1 =
 Updated readme.txt file with info about "WordPress SEO by Yoast" including the Sitelink Search Box markup in their plugin from version 1.6 on. If you use WordPress SEO by Yoast version 1.6 or newer, you don't need this plugin any more.
 
@@ -89,9 +92,33 @@ Updated readme.txt file with info about "WordPress SEO by Yoast" including the S
 
 == Upgrade Notice ==
 
-= 1.0.1 =
-Updated readme.txt file with info about "WordPress SEO by Yoast" including the Sitelink Search Box markup in their plugin from version 1.6 on. If you use WordPress SEO by Yoast version 1.6 or newer, you don't need this plugin any more.
+= 1.1 =
+Changed get_site_url() to get_home_url() for support of WordPress installations in subfolders.
 
 == Contact ==
 
 For further information please send us an [email](http://apasionados.es/contacto/index.php?desde=wordpress-org-sitelinksearchbox-contact).
+
+== Translating WordPress Plugins ==
+
+The steps involved in translating a plugin are:
+
+1. Run a tool over the code to produce a POT file (Portable Object Template), simply a list of all localizable text. Our plugins allready havae this POT file in the /languages/ folder.
+1. Use a plain text editor or a special localization tool to generate a translation for each piece of text. This produces a PO file (Portable Object). The only difference between a POT and PO file is that the PO file contains translations.
+1. Compile the PO file to produce a MO file (Machine Object), which can then be used in the theme or plugin.
+
+In order to translate a plugin you will need a special software tool like [poEdit](http://www.poedit.net/), which is a cross-platform graphical tool that is available for Windows, Linux, and Mac OS X.
+
+The naming of your PO and MO files is very important and must match the desired locale. The naming convention is: `language_COUNTRY.po` and plugins have an additional naming convention whereby the plugin name is added to the filename: `pluginname-fr_FR.po`
+
+That is, the plugin name name must be the language code followed by an underscore, followed by a code for the country (in uppercase). If the encoding of the file is not UTF-8 then the encoding must be specified. 
+
+For example:
+
+* en_US – US English
+* en_UK – UK English
+* es_ES – Spanish from Spain
+* fr_FR – French from France
+* zh_CN – Simplified Chinese
+
+A list of language codes can be found [here](http://en.wikipedia.org/wiki/ISO_639), and country codes can be found [here](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2). A full list of encoding names can also be found at [IANA](http://www.iana.org/assignments/character-sets).
