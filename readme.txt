@@ -111,6 +111,7 @@ The naming of your PO and MO files is very important and must match the desired 
 That is, the plugin name name must be the language code followed by an underscore, followed by a code for the country (in uppercase). If the encoding of the file is not UTF-8 then the encoding must be specified. 
 
 For example:
+
 * en_US – US English
 * en_UK – UK English
 * es_ES – Spanish from Spain
