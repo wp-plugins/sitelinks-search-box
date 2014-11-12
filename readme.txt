@@ -36,7 +36,7 @@ If you would like the plugin in your language and you're good at translating, pl
 * Translation to de_DE by Ben.
 
 = Further Reading =
-You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/).
+You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/marcado-google-sitelinks-search-box-wordpress-plugin-2873/).
 
 == Installation ==
 
