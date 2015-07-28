@@ -3,7 +3,7 @@ Contributors: apasionados, netconsulting
 Donate link: http://apasionados.es/
 Tags: search engines, sitelinks search box, google, google sitelinks search box, google sitelinks, schema.org, JSON-LD
 Requires at least: 3.0.1
-Tested up to: 4.1.1
+Tested up to: 4.2.3
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -34,6 +34,7 @@ If you would like the plugin in your language and you're good at translating, pl
 * Translation to ar_SA by Majed Atwi: [سيو بالعربي](http://www.seo-ar.net).
 * Translation to tr_TR by Ersin Tezcan: [Ersin Tezcan](http://www.seondex.com).
 * Translation to de_DE by Ben.
+* Translation to fr_FR by bijiguen: [التقني](http://www.th3technician.com)
 
 = Further Reading =
 You can access the description of the plugin in Spanish at: [Sitelinks Search Box en castellano](http://apasionados.es/blog/marcado-google-sitelinks-search-box-wordpress-plugin-2873/).
